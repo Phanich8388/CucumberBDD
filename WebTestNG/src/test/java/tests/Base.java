@@ -30,7 +30,7 @@ public class Base {
 	
 	@AfterTest
 	public void quitBrowser() {
-		driver.quit();
+		driver.close();
 	}
 
 }
