@@ -19,6 +19,7 @@ import java.util.HashMap;
 
 
 public class NewTours extends Base{
+
 	
 	@Test(priority = 1)
 	public void executSessionOne() {
